@@ -7,7 +7,8 @@
 
 ##
 
-- Estudo Python
+- Estudo Python 
+- JavaScript
 - Ciências de Dados
 - SQL
 - Power Bi
