@@ -8,7 +8,8 @@
 ##
 
 <div>
-  - Estudo Python</p>
+  - Estudo Python</p
+  <p> - R
   <p>- JavaScript</p>
 - Ciências de Dados</p> 
 <p>- HTML</p>
